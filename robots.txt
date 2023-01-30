@@ -1,0 +1,10 @@
+# edunitas.com robots.txt -- just crawl it.
+
+User-agent: *
+
+Disallow: /dev/
+Disallow: /dev
+
+#Sementara Disallow
+
+Sitemap: https://edunovasi.com/sitemap.xml
